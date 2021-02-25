@@ -1,0 +1,6 @@
+C:\Users\knox\Documents\Project2\Project2\utility\bin\Release\utility.dll
+C:\Users\knox\Documents\Project2\Project2\utility\bin\Release\utility.pdb
+C:\Users\knox\Documents\Project2\Project2\utility\obj\Release\Utilities.csprojAssemblyReference.cache
+C:\Users\knox\Documents\Project2\Project2\utility\obj\Release\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\knox\Documents\Project2\Project2\utility\obj\Release\utility.dll
+C:\Users\knox\Documents\Project2\Project2\utility\obj\Release\utility.pdb

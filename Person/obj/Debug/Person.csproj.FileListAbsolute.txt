@@ -1,0 +1,6 @@
+G:\Project2\Person\bin\Debug\Person.dll
+G:\Project2\Person\bin\Debug\Person.pdb
+G:\Project2\Person\obj\Debug\Person.csprojAssemblyReference.cache
+G:\Project2\Person\obj\Debug\Person.csproj.CoreCompileInputs.cache
+G:\Project2\Person\obj\Debug\Person.dll
+G:\Project2\Person\obj\Debug\Person.pdb

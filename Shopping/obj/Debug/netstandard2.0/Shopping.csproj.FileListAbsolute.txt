@@ -1,0 +1,9 @@
+G:\Project2\Shopping\bin\Debug\netstandard2.0\Shopping.deps.json
+G:\Project2\Shopping\bin\Debug\netstandard2.0\Shopping.dll
+G:\Project2\Shopping\bin\Debug\netstandard2.0\Shopping.pdb
+G:\Project2\Shopping\obj\Debug\netstandard2.0\Shopping.csprojAssemblyReference.cache
+G:\Project2\Shopping\obj\Debug\netstandard2.0\Shopping.csproj.CoreCompileInputs.cache
+G:\Project2\Shopping\obj\Debug\netstandard2.0\Shopping.AssemblyInfoInputs.cache
+G:\Project2\Shopping\obj\Debug\netstandard2.0\Shopping.AssemblyInfo.cs
+G:\Project2\Shopping\obj\Debug\netstandard2.0\Shopping.dll
+G:\Project2\Shopping\obj\Debug\netstandard2.0\Shopping.pdb

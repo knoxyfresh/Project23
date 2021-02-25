@@ -1,0 +1,6 @@
+C:\Users\knox\Documents\Projects\Project23\RestaurantsReview\bin\Debug\RestaurantsReview.dll
+C:\Users\knox\Documents\Projects\Project23\RestaurantsReview\bin\Debug\RestaurantsReview.pdb
+C:\Users\knox\Documents\Projects\Project23\RestaurantsReview\obj\Debug\RestaurantsReview.csprojAssemblyReference.cache
+C:\Users\knox\Documents\Projects\Project23\RestaurantsReview\obj\Debug\RestaurantsReview.csproj.CoreCompileInputs.cache
+C:\Users\knox\Documents\Projects\Project23\RestaurantsReview\obj\Debug\RestaurantsReview.dll
+C:\Users\knox\Documents\Projects\Project23\RestaurantsReview\obj\Debug\RestaurantsReview.pdb

@@ -1,0 +1,15 @@
+﻿.card {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar {
+    margin-bottom: 50px !important;
+}
+
+.img-fluid {
+    min-height: 100px;
+    min-width: 100px;
+}
